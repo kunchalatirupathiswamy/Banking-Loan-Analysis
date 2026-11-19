@@ -1,2 +1,2 @@
-# Banking Loan Analytics
+# Banking Loan Analysis
 An end-to-end data analytics project focused on analysing banking loan data, including loan disbursement, funded amounts, collections, interest, loan status, defaults, delinquencies, customer demographics, and geographic performance. Utilises MySQL for data analysis, Excel for data cleaning and pivot analysis, and Power BI and Tableau for interactive dashboards and business insights.
